@@ -1,0 +1,23 @@
+{
+  "scenario_results": {
+    "AI/Tech Regulation": {
+      "portfolio_impact": -0.08,
+      "affected_weight": 0.304,
+      "description": "AI regulations impact major tech holdings"
+    },
+    "Financial Services": {
+      "portfolio_impact": -0.03,
+      "affected_weight": 0.12,
+      "description": "Banking regulations affect financial sector"
+    }
+  },
+  "regulatory_insights": {
+    "AI_Regulation": {
+      "themes": ["artificial intelligence", "data privacy", "algorithmic accountability"],
+      "affected_sectors": ["Technology", "Healthcare", "Financial Services"],
+      "impact_assessment": "Moderate to high impact on tech companies",
+      "timeline": "12-24 months implementation",
+      "geographic_scope": "Global"
+    }
+  }
+}

@@ -1,0 +1,94 @@
+# CONSOLIDATED REPORT: PUBLIC LAW 119-21
+
+## 1. BILL SUMMARY
+
+Public Law 119-21 is a comprehensive omnibus appropriations and policy bill totaling approximately **$300+ billion** in new spending and tax provisions. The bill encompasses major reforms across agriculture, defense, energy, healthcare, immigration, and tax policy. Key components include:
+
+- **Defense spending**: $122+ billion for shipbuilding, missile defense, munitions, and Indo-Pacific operations
+- **Border security**: $102+ billion for wall construction, detention facilities, personnel, and state reimbursements
+- **Agriculture support**: Enhanced commodity price supports, increased payment limits ($155,000), and $15+ billion in conservation programs through 2031
+- **Tax provisions**: SALT cap increase to $40,000, elimination of taxes on tips/overtime (up to $25,000/$12,500), new "Trump Accounts" savings program
+- **Energy policy**: Aggressive expansion of oil/gas leasing (30+ Gulf sales, ANWR development), termination of most clean energy tax credits by 2027-2028
+- **Healthcare reforms**: Medicaid work requirements (80 hours/month), eligibility restrictions for non-citizens, student loan caps ($100,000 graduate aggregate)
+- **Immigration fees**: New fee structure generating hundreds of millions annually ($100-$5,000 per application type)
+
+The bill represents a significant policy shift toward domestic energy production, defense buildup, border enforcement, and tax relief for service workers and high-tax state residents, while curtailing clean energy incentives and tightening federal benefit eligibility.
+
+## 2. TOP 5 IMPACTED SECTORS
+
+**Sector 1: Defense & Aerospace** - Impact Score: **10/10**
+Massive $122+ billion injection for shipbuilding (Virginia-class submarines, DDG destroyers, amphibious vessels), missile defense systems ($28.5B), munitions production ($20B+), nuclear modernization ($11.2B), and space assets ($3.65B satellites). Represents largest defense procurement expansion in decades with multi-year contracts extending through 2030s.
+
+**Sector 2: Energy (Oil & Gas)** - Impact Score: **9/10**
+Transformational support through mandatory 30+ Gulf of America lease sales (2025-2040), ANWR expansion (4 additional sales), Alaska revenue sharing (70% to state), reduced royalty rates (12.5%-16.67% oil; 7% coal), and $389M Strategic Petroleum Reserve funding. Concurrent termination of competing clean energy credits creates massive competitive advantage.
+
+**Sector 3: Financial Services & Banking** - Impact Score: **8/10**
+Major changes including SALT deduction expansion ($40,000 cap benefits high-net-worth clients), new Trump Accounts product line ($5,000 annual contributions), enhanced opportunity zone investments (rural 10% credit), car loan interest deductibility ($10,000), and increased QSBS exclusions (100% at 5 years, $15M cap). Auto lending sector gains significant stimulus.
+
+**Sector 4: Healthcare & Managed Care** - Impact Score: **8/10**
+Fundamental Medicaid restructuring with work requirements (80 hours/month), 6-month redeterminations for expansion population, state directed payment caps (100-110% of Medicare), provider tax reductions (5.5% to 3.5% by 2032), and non-citizen eligibility restrictions. Planned Parenthood faces $800M+ payment prohibition. Offsetting positives: 2.5% Medicare physician fee increase (2026) and nursing facility staffing rule moratorium through 2034.
+
+**Sector 5: Agriculture & Food** - Impact Score: **8/10**
+Comprehensive support package with increased reference prices (wheat $6.35/bu, corn $4.10/bu, soybeans $10.00/bu), higher payment limits ($155,000), 30M additional base acres, enhanced crop insurance (95% coverage, 80% subsidy), dairy production cap increase (6M lbs), and $15B+ conservation funding. Offset by SNAP work requirement tightening and state cost-sharing increases starting 2027-2028.
+
+## 3. TOP 3 STOCKS PER SECTOR
+
+### Sector 1: Defense & Aerospace Stocks
+
+- **LMT (Lockheed Martin)**: Primary beneficiary of $11.2B nuclear modernization (Sentinel ICBM, nuclear cruise missiles), $7.2B space-based sensors, hypersonic defense systems, and F-35 sustainment. Multi-year revenue visibility through 2030s.
+
+- **HII (Huntington Ingalls Industries)**: Direct recipient of $30.5B shipbuilding appropriations including Virginia-class submarine ($4.6B), amphibious warships ($1.47B), and potential DDG contracts. Only major U.S. nuclear shipbuilder positioned for decade-long production surge.
+
+- **GD (General Dynamics)**: Benefits from Virginia-class submarine program (co-producer with HII), Columbia-class ballistic missile submarine continuation, and munitions production expansion ($20B+ allocation). Electric Boat division operating at capacity through 2035.
+
+### Sector 2: Energy (Oil & Gas) Stocks
+
+- **XOM (ExxonMobil)**: Largest Gulf of Mexico leaseholder positioned to dominate 30+ mandatory lease sales through 2040. Reduced royalty rates (12.5%-16.67%) and termination of renewable energy credits eliminate competitive threats. Alaska operations benefit from 70% state revenue sharing starting 2034.
+
+- **CVX (Chevron)**: Major Gulf of Mexico operator with extensive Alaska presence (Cook Inlet, NPR-Alaska). Benefits from 6 Cook Inlet lease sales (2026-2032) and streamlined permitting. Refining operations gain from $171M SPR acquisition mandate.
+
+- **COP (ConocoPhillips)**: Dominant Alaska operator positioned for ANWR Coastal Plain expansion (4 additional area-wide sales) and NPR-Alaska development (5 lease sales). Existing infrastructure provides lowest-cost entry for new acreage.
+
+### Sector 3: Financial Services & Banking Stocks
+
+- **JPM (JPMorgan Chase)**: Largest auto lender ($10,000 interest deductibility drives origination volume), wealth management benefits from SALT cap increase ($40,000 serves high-net-worth clients in NY/CA/NJ), and Trump Accounts custody/administration opportunity ($5,000 annual contributions across millions of accounts).
+
+- **BAC (Bank of America)**: Second-largest auto lender positioned for loan growth from interest deductibility, extensive branch network in high-tax states (SALT beneficiaries), and Merrill Lynch platform for opportunity zone fund distribution (enhanced rural 10% credit).
+
+- **AXP (American Express)**: Direct beneficiary of tips tax elimination (up to $25,000 deduction) driving higher spending in hospitality/dining sectors where Amex has premium merchant relationships. High-income cardholder base benefits from SALT cap increase.
+
+### Sector 4: Healthcare & Managed Care Stocks
+
+- **UNH (UnitedHealth Group)**: Largest Medicaid managed care operator with sophisticated work requirement verification systems already deployed in multiple states. Optum health services division positioned to provide community engagement tracking. Scale advantages in navigating state directed payment caps (100-110% Medicare rates).
+
+- **CVS (CVS Health)**: Aetna Medicaid plans in 18 states benefit from provider tax reductions (5.5% to 3.5% by 2032) improving state budget flexibility. Retail clinic network provides community engagement verification sites. Pharmacy benefit management unaffected by reforms.
+
+- **ELV (Elevance Health)**: Medicaid plans in 25 states with existing employment verification infrastructure. Medicare Advantage segment benefits from 2.5% physician fee increase (2026) improving provider network stability. Diversified portfolio limits Medicaid exposure to 25% of revenue.
+
+### Sector 5: Agriculture & Food Stocks
+
+- **DE (Deere & Company)**: Equipment demand surge from increased payment limits ($155,000), higher reference prices creating farmer income stability, and 30M additional base acres bringing marginal land into production. Precision agriculture technology supports conservation program compliance ($15B+ funding).
+
+- **ADM (Archer Daniels Midland)**: Grain handling/processing benefits from increased reference prices (corn $4.10/bu, soybeans $10.00/bu) stabilizing farmer planting decisions. Agri-biodiesel operations gain from enhanced 20-cent credit through 2026. Global trade promotion funding ($285M/year from 2027) supports exports.
+
+- **TSN (Tyson Foods)**: Livestock operations benefit from stable feed costs (reference price supports), dairy margin coverage improvements, and reduced regulatory burden. SNAP work requirements may reduce food assistance volume but offset by stronger agricultural economy supporting rural employment.
+
+## 4. MARKET PREDICTIONS
+
+### Mid-term (6-18 months)
+
+**Defense sector** experiences immediate 15-25% stock appreciation as $122B appropriations translate to contract awards Q2-Q4 2025. Prime contractors (LMT, HII, GD, NOC, RTX) see order backlogs extend 3-5 years. Supply chain constraints emerge by Q4 2025 as munitions production ramps, benefiting specialty manufacturers (KTOS, AJRD, TDY). Expect defense sector to outperform S&P 500 by 800-1200 basis points through 2026.
+
+**Energy sector** rallies 20-30% as Gulf lease sales commence Q3 2025 and ANWR permitting accelerates. Oil service companies (SLB, HAL, NOV) see 25-40% gains on drilling activity surge. Clean energy stocks (ENPH, SEDG, FSLR) decline 30-50% as tax credit terminations (2025-2027) eliminate project economics. Expect energy sector rotation from renewables to traditional hydrocarbons, with XLE outperforming ICLN by 3000+ basis points.
+
+**Financial services** experiences bifurcated impact: Money center banks (JPM, BAC, WFC) gain 10-15% on auto loan origination growth and wealth management fee expansion. Regional banks in high-tax states (FRC, SIVB, PACW) see deposit inflows from SALT cap beneficiaries. Fintech platforms (SOFI, UPST, LC) launch Trump Account products capturing younger demographics. Credit card networks (V, MA, AXP) benefit from tips deduction driving hospitality spending growth of 5-8%.
+
+**Healthcare sector** volatility peaks Q2-Q3 2026 as Medicaid work requirements implementation begins. Managed care organizations (UNH, ELV, CVS, CNC, MOH) initially decline 8-12% on enrollment uncertainty, then recover as state implementation proves gradual. Hospital stocks (HCA, THC, UHS) face 5-10% pressure from Medicaid payment caps but stabilize on Medicare physician fee increase. Pharmaceutical stocks (PFE, JNJ, MRK, ABBV) remain neutral as orphan drug exclusion expansion offsets Medicaid restrictions.
+
+**Agriculture sector** sees immediate 12-18% rally as reference price increases and payment limit expansion announced. Equipment manufacturers (DE, AGCO, CNH) gain 15-25% on replacement cycle acceleration. Fertilizer producers (NTR, MOS, CF) rise 10-15% on acreage expansion (30M base acres). Food processors (ADM, BG, TSN) appreciate 8-12% on stable commodity costs. Expect sector outperformance through 2026 planting season.
+
+**Broader market implications**: S&P 500 faces 3-5% correction Q2 2025 as clean energy weight (4% of index) reprices downward, offset by defense/energy gains. Russell 2000 outperforms (+8-12%) on domestic manufacturing bias (100% bonus depreciation, R&D expensing). High-tax state real estate (NY, CA, NJ, CT) appreciates 5-8% on SALT cap increase driving housing demand. Treasury yields rise 40-60 basis points on $300B+ deficit impact, pressuring rate-sensitive sectors (utilities, REITs).
+
+### Long-term (2-5 years)
+
+**Defense industrial base** undergoes structural transformation as $122B+ appropriations drive capacity expansion 2026-2029. Shipyards (HII, GD) invest $5-8B in facility upgrades, extending production timelines but creating 2030s revenue visibility. Missile defense architecture buildout ($28.5B) establishes permanent $8-10B annual spending baseline. Space militarization accelerates with $3.65B satellite constellation creating new prime contractor opportunities (LMT, NOC). Expect defense sector to compound 12-15% annually through 2029,
