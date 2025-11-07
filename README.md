@@ -1,4 +1,4 @@
-# PolyScan - Regulatory Risk Analysis Platform
+# PolyScan - Regulatory Risk Analysis Platform (By Ayman Fasly, Sylverson Charles, Adam Azrou)
 
 A Flask-based web application that analyzes regulatory documents and assesses their impact on publicly traded companies using AI-powered analysis and real-time market data.
 
